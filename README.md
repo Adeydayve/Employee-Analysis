@@ -1,17 +1,27 @@
 # Employee-Analysis
-DATA VIRTUALIZATION
+#### DATA VIRTUALIZATION
+
 Data Virtualization using python libraries such as pandas, matplotlib.
 
-DATASET
+#### DATASET
 The dataset is an employee dataset that states Race/ethnicity distribution, Gender representation, types of employment, and salary. The dataset shows each race in each department and the concentration of races in each department. It also shows differences in salaries in each positions and department either high or low. All the variables include the following with their explanations:
+
 UNIQUE_ID: This is the index array representation of each rows information
+
 POSITION_TITLE: Position of each employee within the company 
+
 DEPARTMENT: The Department the employees works within the company
+
 BASE_SALARY: This is the salary for each employee 
+
 RACE: This is the ethnicity or culture where each employee originated from.
+
 EMPLOYMENT_TYPE: this refers to the time of contract made with the company before they were employed. It could be Full –Time, Part-Time e.t.c.
+
 GENDER: this is an identifier to distinguish masculinity and feminine
+
 HIRE_DATE: refers to the date when the employee was initially hired by the company
+
 JOB_DATE: refers to the date when the employee started their current or most recent positon within the company.
 
 SUMMARY OF THE FINDINGS
