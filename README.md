@@ -24,7 +24,7 @@ HIRE_DATE: refers to the date when the employee was initially hired by the compa
 
 JOB_DATE: refers to the date when the employee started their current or most recent positon within the company.
 
-SUMMARY OF THE FINDINGS
+#### SUMMARY OF THE FINDINGS
 After exploring with various questions, below are the conclusions of my observation:
 1.	It is discovered that majority of the workforce overall dominated by the Black or African American Race with 35.62%, followed by White Race with 33.84% and lastly Hispanic/Latino with 24.43% while the rest of the race are very small portions in the company.
 2.	It was find out that the conventional and Entertainment department was largely dominated by Hispanic/Latino Race with no other race involved in that department. It is a monopolized department.
@@ -36,7 +36,7 @@ After exploring with various questions, below are the conclusions of my observat
 8.	Department with the highest average salary is the Legal Department with Highest average salary of 104959.53
 
 
-KEY INSIGHTS FOR PRESENTATION
+#### KEY INSIGHTS FOR PRESENTATION
 1.	The percentage of Male to Female among employees
 2.	Why convention and Entertainment department is monopolized by Hispanic/Latino Race Female employees?
 3.	The Relationship between the Average highest salary by department and Average highest salary by position.
